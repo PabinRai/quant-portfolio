@@ -1,4 +1,4 @@
-# quant-portfolio - Pabin Rai
+# Quant-portfolio - Pabin Rai
 Aspiring Quant Researcher based in Hong Kong.
 This repository contains projects related to algorithmic strategy backtesting and financial machine learning.
 
