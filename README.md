@@ -1,1 +1,8 @@
-
+mkdir 1_AlphaStream_AlgoTrading
+mkdir 1_AlphaStream_AlgoTrading/data
+mkdir 1_AlphaStream_AlgoTrading/strategies
+mkdir 1_AlphaStream_AlgoTrading/risk
+mkdir 1_AlphaStream_AlgoTrading/notebooks
+mkdir 1_AlphaStream_AlgoTrading/results
+mkdir 2_QuantSight_ML_Forecasting
+mkdir 3_RiskLens_PortfolioRisk
